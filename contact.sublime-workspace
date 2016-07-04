@@ -1,0 +1,358 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"fi",
+				"figcaption	Tag"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"Co",
+				"CountryCtrl"
+			],
+			[
+				"Country",
+				"CountryListCtrl"
+			],
+			[
+				"todo",
+				"todolist"
+			],
+			[
+				"te",
+				"textInput"
+			],
+			[
+				"textIn",
+				"textInputElement"
+			],
+			[
+				"text-ai",
+				"text-align"
+			],
+			[
+				"my",
+				"myArrayofObjects"
+			],
+			[
+				"hea",
+				"header	Tag"
+			],
+			[
+				"set",
+				"setPosition"
+			],
+			[
+				"get",
+				"getCenter"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"ali",
+				"align-self"
+			],
+			[
+				"border",
+				"border-style"
+			],
+			[
+				"block",
+				"inline-block"
+			],
+			[
+				"list-style",
+				"list-style-type"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"color",
+				"background-color"
+			],
+			[
+				"s",
+				"serif"
+			],
+			[
+				"html",
+				"html	html"
+			],
+			[
+				"clic",
+				"clickcount"
+			],
+			[
+				"local",
+				"localStorage"
+			],
+			[
+				"re",
+				"currentColor"
+			],
+			[
+				"data",
+				"datalist	Tag"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"fam",
+				"font-variant-numeric"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/sushil/Desktop/js_projects/contactlist/server.js",
+		"/Users/sushil/Desktop/js_projects/contactlist/contact.js",
+		"/Users/sushil/Desktop/js_projects/contactlist/index.html",
+		"/Users/sushil/Desktop/js_projects/javascript_practice.js",
+		"/Users/sushil/Downloads/Nepal_zones.svg",
+		"/Users/sushil/Desktop/js_projects/booklist/code-school.html",
+		"/Users/sushil/Desktop/js_projects/booklist/about.html",
+		"/Users/sushil/Desktop/js_projects/booklist/index.html",
+		"/Users/sushil/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/sushil/Desktop/js_projects/booklist/css/bootstrap.css",
+		"/Users/sushil/Desktop/js_projects/booklist/style.css",
+		"/Users/sushil/Desktop/js_projects/bookapp.js",
+		"/Users/sushil/Desktop/js_projects/travel-design/style.css",
+		"/Users/sushil/Desktop/js_projects/travel-design/main.html",
+		"/Users/sushil/Desktop/js_projects/style.css",
+		"/Users/sushil/Desktop/js_projects/index.html",
+		"/Users/sushil/Desktop/js_projects/countries.json",
+		"/Users/sushil/Desktop/js_projects/app.js",
+		"/Users/sushil/Desktop/js_projects/country.json",
+		"/Users/sushil/Desktop/js_projects/component.js",
+		"/Users/sushil/Desktop/js_projects/ebay/index",
+		"/Users/sushil/Downloads/ractive-progress-bar-master/js/progress_bar.js",
+		"/Users/sushil/Downloads/ractive-progress-bar-master/README.md",
+		"/Users/sushil/Desktop/js_projects/techster/index.html",
+		"/Users/sushil/Desktop/js_projects/prac/index.html",
+		"/Users/sushil/Desktop/soundcloud/script.js",
+		"/Users/sushil/Desktop/soundcloud/index.html",
+		"/Users/sushil/Desktop/ebay/main.css ",
+		"/Users/sushil/Desktop/ebay/index",
+		"/System/Library/Frameworks/QuickTime.framework/Versions/A/Headers/QuickTimeComponents.h",
+		"/Users/sushil/Downloads/convertcsv.json",
+		"/Users/sushil/Desktop/practice/index.html",
+		"/Users/sushil/Desktop/practice/index1.html",
+		"/Users/sushil/nodeschool/myfirstio.js",
+		"/Users/sushil/Desktop/untitled folder/main.js",
+		"/Users/sushil/Desktop/untitled folder/index.html",
+		"/Users/sushil/Desktop/d3_practice/data.csv",
+		"/Users/sushil/Desktop/d3_practice/iris.csv",
+		"/Users/sushil/Desktop/d3_practice/index.html",
+		"/Users/sushil/Desktop/practice/style.css",
+		"/Users/sushil/Downloads/pwa-weather/step-07/service-worker.js",
+		"/Users/sushil/Downloads/pwa-weather/step-04/scripts/app.js",
+		"/Users/sushil/Desktop/practice/googleapi.html",
+		"/Users/sushil/projects/client/views/index.html",
+		"/Users/sushil/projects/mean-demo/server.js",
+		"/Users/sushil/projects/mean-demo/package.json",
+		"/Users/sushil/DefSelectDB.js",
+		"/Users/sushil/mongorc.js",
+		"/Users/sushil/Desktop/practice/practice.html",
+		"/Users/sushil/Desktop/practice/jstut.js",
+		"/Users/sushil/Desktop/practice/script.js",
+		"/Users/sushil/Desktop/bootstrap-3.3.6-dist/app.js",
+		"/Users/sushil/Desktop/style.css",
+		"/Users/sushil/Desktop/index.html",
+		"/Users/sushil/course-era/index.html",
+		"/Users/sushil/test_site/style.css",
+		"/Users/sushil/test_site/index.html",
+		"/Users/sushil/Desktop/http_practice"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "contact.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 146.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
